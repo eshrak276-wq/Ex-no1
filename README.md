@@ -200,19 +200,20 @@ END
 ```
 
 #### Output Table
+
 <img width="871" height="606" alt="WhatsApp Image 2026-05-14 at 11 34 47 AM" src="https://github.com/user-attachments/assets/eb13983c-e1f7-4e2c-a959-29e8f3343e35" />
 
 
-
 #### Manual Calculations
+
 <img width="900" height="769" alt="WhatsApp Image 2026-05-14 at 11 34 57 AM" src="https://github.com/user-attachments/assets/177c684c-398c-4272-8116-1dc9f173cebc" />
 
 
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
-<img width="1026" height="1137" alt="WhatsApp Image 2026-05-14 at 11 35 10 AM" src="https://github.com/user-attachments/assets/c384dcc1-21fc-4a8f-ba5f-2db70e25bacc" />
 
+<img width="1026" height="1137" alt="WhatsApp Image 2026-05-14 at 11 35 10 AM" src="https://github.com/user-attachments/assets/c384dcc1-21fc-4a8f-ba5f-2db70e25bacc" />
 
 
 ## RESULT
